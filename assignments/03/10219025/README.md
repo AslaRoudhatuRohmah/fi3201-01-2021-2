@@ -71,3 +71,5 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 Kode di atas berfungsi untuk
 + membuat kotak-kotak sesuai dengan angka yang ada pada data (NIM) yang diberikan.
 + ..
+
+Tested by OneCompiler [3xs2r8p4v](https://onecompiler.com/python/3xs2r8p4v)
