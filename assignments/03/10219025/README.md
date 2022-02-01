@@ -72,4 +72,6 @@ Kode di atas berfungsi untuk
 + membuat kotak-kotak sesuai dengan angka yang ada pada data (NIM) yang diberikan.
 + ..
 
-Tested by OneCompiler [3xs2r8p4v](https://onecompiler.com/python/3xs2r8p4v)
+Number 1 was tested by OneCompiler [3xs2rtfxv](https://onecompiler.com/python/3xs2rtfxv)
+Number 2 was tested by OneCompiler [3xs2r8p4v](https://onecompiler.com/python/3xs2r8p4v)
+Number 3 was tested by OneCompiler [3xs2rm879](https://onecompiler.com/python/3xs2rm879)
