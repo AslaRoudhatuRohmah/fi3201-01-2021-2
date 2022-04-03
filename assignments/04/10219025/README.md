@@ -72,8 +72,9 @@ yang dapat diperoleh di <https://jakevdp.github.io/downloads/code/basic_animatio
 Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/> atau pada pertemuan kuliah terkait.
 
 ### answer 1
-Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah? Iya, saya hadir kuliah dan sudah membaca
+Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 ```
+Saya sudah membaca dan hadir pada perkuliahan
 ```
 
 ## question 2
@@ -82,10 +83,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
-```
+ y = np.sin(np.pi*x - np.pi*i)
+dan mengubah option = 1 menjadi option = 0 pada line 58 
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
-
+![gif file from simulation wave to left]()
 
 ## question 3
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang merambat ke kiri dengan panjang gelombang &lambda; = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
@@ -93,6 +94,8 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(np.pi*x + np.pi*i)
+dan mengubah option = 1 menjadi option = 0 pada line 58
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left]()
@@ -104,6 +107,8 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(np.pi * x) * np.cos(np.pi * i)
+dan mengubah option = 1 menjadi option = 0 pada line 58 
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave stationary]()
