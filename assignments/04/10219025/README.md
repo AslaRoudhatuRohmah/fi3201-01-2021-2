@@ -88,6 +88,7 @@ dan mengubah option = 1 menjadi option = 0 pada line 58
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left]()
 
+
 ## question 3
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang merambat ke kiri dengan panjang gelombang &lambda; = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
 
