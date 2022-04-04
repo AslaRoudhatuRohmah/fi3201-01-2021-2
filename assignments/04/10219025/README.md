@@ -87,7 +87,7 @@ Potongan kode yang perlu disisipkan adalah
 dan mengubah option = 1 menjadi option = 0 pada line 58 
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left](https://github.com/AslaRoudhatuRohmah/fi3201-01-2021-2/blob/main/assignments/04/10219025/wave%20simulation%202.gif)
-
+```
 
 ## question 3
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang merambat ke kiri dengan panjang gelombang &lambda; = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
