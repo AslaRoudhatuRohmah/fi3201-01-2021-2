@@ -86,7 +86,7 @@ Potongan kode yang perlu disisipkan adalah
  y = np.sin(np.pi*x - np.pi*i)
 dan mengubah option = 1 menjadi option = 0 pada line 58 
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![gif file from simulation wave to left](https://github.com/AslaRoudhatuRohmah/fi3201-01-2021-2/blob/main/assignments/04/10219025/wave%20simulation%202.gif)
 
 
 ## question 3
