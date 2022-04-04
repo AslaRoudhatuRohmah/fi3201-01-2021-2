@@ -83,7 +83,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
- y = np.sin(np.pi*x - np.pi*i)
+ Karena sudah diketahui fungsi x, maka diinput fungsi y = np.sin(np.pi*x - np.pi*i)
 dan mengubah option = 1 menjadi option = 0,
 Catatan: animasi akan tersimpan dalam bentuk mp4 dengan fps 30, interval 20, frames 200
 ```
@@ -97,7 +97,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
-y = np.sin(np.pi*x + np.pi*i)
+Karena sudah diketahui fungsi x, maka diinput fungsi y = np.sin(np.pi*x + np.pi*i)
 dan mengubah option = 1 menjadi option = 0
 Catatan: animasi akan tersimpan dalam bentuk mp4 dengan fps 30, interval 20, frames 200
 ```
@@ -111,7 +111,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
 ```
-y = np.sin(np.pi * x) * np.cos(np.pi * i)
+Karena sudah diketahui fungsi x, maka diinput fungsi y = np.sin(np.pi * x) * np.cos(np.pi * i)
 dan mengubah option = 1 menjadi option = 0 
 Catatan: animasi akan tersimpan dalam bentuk mp4 dengan fps 30, interval 20, frames 200
 ```
